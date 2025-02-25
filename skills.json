@@ -1,26 +1,20 @@
 [
     {
-        "name": "Entrepreneurship Mentoring",
-        "icon": "#"
+        "name": "Entrepreneurship Mentoring"
     },
     {
-        "name": "Innovation Management",
-        "icon": "#"
+        "name": "Innovation Management"
     },
     {
-            "name": "Teaching",
-        "icon": "#"
+            "name": "Teaching"
     },
     {
-        "name": "Technology Business Incubtion",
-        "icon": "#"
+        "name": "Technology Business Incubtion"
     },
     {
-        "name": "Government Support Schemes",
-        "icon": "#"
+        "name": "Government Support Schemes"
     },
     {
-        "name": "Student Industry Collaboration",
-        "icon": "#"
+        "name": "Student Industry Collaboration"
     }
 ]
