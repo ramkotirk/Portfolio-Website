@@ -1,12 +1,10 @@
 [
   {
-    "name": "AI",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "AI Projects",
+    "name": "Augmentation of heat storage capacity of compact salinity gradient solar pond using dragon fruit extract coated magnesium powder and paraffin wax",
+    "desc": "Thermal Science and Engineering Progress",
+    "image": "https://ars.els-cdn.com/content/image/X24519049.jpg",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85187797190&doi=10.1016%2fj.tsep.2024.102518&origin=inward&txGid=a289f3c125a8604a788937df48459cb4"
     }
   },
   {
