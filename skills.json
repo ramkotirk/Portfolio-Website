@@ -22,34 +22,5 @@
     {
         "name": "Student Industry Collaboration",
         "icon": "https://www.shutterstock.com/shutterstock/photos/1975712075/display_1500/stock-vector-thin-line-insight-icon-with-group-of-people-and-black-bulb-outline-flat-trend-modern-logo-graphic-1975712075.jpg"
-    },
-    {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
-    },
-    {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
-    },
-    {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
-    },
-    {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
-    },
-    {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
-    },
-   
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+    }
 ]
