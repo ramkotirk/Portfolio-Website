@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Ram koti";
+            document.title = "Projects | Portfolio Chandra Kumar P";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
