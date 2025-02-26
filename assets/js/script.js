@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["CEO OF VEL TECH TBI", "DEAN OF R&D", "DEAN OF INDUSTRY"],
+    strings: ["CEO OF VEL TECH TBI", "DEAN OF R&D", "DEAN OF INDUSTRY REALTIONS"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
